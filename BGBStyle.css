@@ -1,0 +1,19 @@
+img{
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+
+}
+h2 {
+    color: chocolate;
+}
+div{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+hr{
+    width: 70%;
+    color: #0ab4f3;
+}
